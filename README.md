@@ -15,10 +15,8 @@ The goal was to create a simple, low-cost, and reliable circuit for decorative e
 - Basic Electronics Components  
 
 ## Project Images
-![Schematic](ELECTRIC-DIYA-PCB-DESIGN-USING-KiCAD
-/electric diya schematic.png)  
-![PCB Layout](ELECTRIC-DIYA-PCB-DESIGN-USING-KiCAD
-/electric diya pcb layout.png) 
+![Schematic](https://github.com/Shubhamnegi001/ELECTRIC-DIYA-PCB-DESIGN-USING-KiCAD/blob/main/electric%20diya%20schematic.png)
+![PCB Layout](https://github.com/Shubhamnegi001/ELECTRIC-DIYA-PCB-DESIGN-USING-KiCAD/blob/main/electric%20diya%20PCB.png)
 ELECTRIC-DIYA-PCB-DESIGN-USING-KiCAD
 /electric diya schematic.png
 
